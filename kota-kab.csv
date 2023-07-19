@@ -1,0 +1,545 @@
+nid,parent_nid,name,serial,type,latitude,longitude,status,name
+1,0,Aceh,11,1,4.695135,96.7494,1,Provinsi Aceh
+2,0,Sumatera Utara,12,1,2.115355,99.5451,1,Provinsi Sumatera Utara
+3,0,Sumatera Barat,13,1,-0.73994,100.8,1,Provinsi Sumatera Barat
+4,0,Riau,14,1,0.293347,101.7068,1,Provinsi Riau
+5,0,Jambi,15,1,-1.48518,102.4381,1,Provinsi Jambi
+6,0,Sumatera Selatan,16,1,-3.31944,103.9144,1,Provinsi Sumatera Selatan
+7,0,Bengkulu,17,1,-3.57785,102.3464,1,Provinsi Bengkulu
+8,0,Lampung,18,1,-4.55858,105.4068,1,Provinsi Lampung
+9,0,Kep Bangka Belitung,19,1,-2.74105,106.4406,1,Provinsi Kepulauan Bangka Belitung
+10,0,Kep Riau,21,1,3.945651,108.1429,1,Provinsi Kepulauan Riau
+11,0,DKI Jakarta,31,1,-6.21154,106.8452,1,Provinsi DKI Jakarta
+12,0,Jawa Barat,32,1,-7.09091,107.6689,1,Provinsi Jawa Barat
+13,0,Jawa Tengah,33,1,-7.15098,110.1403,1,Provinsi Jawa Tengah
+14,0,DI Yogyakarta,34,1,-7.87538,110.4262,1,Provinsi DI Yogyakarta
+15,0,Jawa Timur,35,1,-7.53606,112.2384,1,Provinsi Jawa Timur
+16,0,Banten,36,1,-6.40582,106.064,1,Provinsi Banten
+17,0,Bali,51,1,-8.40952,115.1889,1,Provinsi Bali
+18,0,Nusa Tenggara Barat,52,1,-8.65293,117.3616,1,Provinsi Nusa Tenggara Barat
+19,0,Nusa Tenggara Timur,53,1,-8.65738,121.0794,1,Provinsi Nusa Tenggara Timur
+20,0,Kalimantan Barat,61,1,-0.27878,111.4753,1,Provinsi Kalimantan Barat
+21,0,Kalimantan Tengah,62,1,-1.68149,113.3824,1,Provinsi Kalimantan Tengah
+22,0,Kalimantan Selatan,63,1,-3.09264,115.2838,1,Provinsi Kalimantan Selatan
+23,0,Kalimantan Timur,64,1,1.64063,116.4194,1,Provinsi Kalimantan Timur
+24,0,Sulawesi Utara,71,1,0.624693,123.975,1,Provinsi Sulawesi Utara
+25,0,Sulawesi Tengah,72,1,-1.43003,121.4456,1,Provinsi Sulawesi Tengah
+26,0,Sulawesi Selatan,73,1,-3.6688,119.9741,1,Provinsi Sulawesi Selatan
+27,0,Sulawesi Tenggara,74,1,-4.14491,122.1746,1,Provinsi Sulawesi Tenggara
+28,0,Gorontalo,75,1,0.699937,122.4467,1,Provinsi Gorontalo
+29,0,Sulawesi Barat,76,1,-2.84414,119.2321,1,Provinsi Sulawesi Barat
+30,0,Maluku,81,1,-3.23846,130.1453,1,Provinsi Maluku
+31,0,Maluku Utara,82,1,1.570999,127.8088,1,Provinsi Maluku Utara
+32,0,Papua Barat,91,1,-1.33612,133.1747,1,Provinsi Papua Barat
+33,0,Papua,94,1,-4.26993,138.0804,1,Provinsi Papua
+34,0,Papua Barat Daya,95,1,-0.86667,131.25,1,Provinsi Papua Barat Daya
+562,11,Kota Tangerang Selatan,0,2,-6.28889,106.7181,1,Kota Tangerang Selatan
+821,15,Banyuwangi,1501,2,-8.21861,114.3669,1,Kabupaten Banyuwangi
+823,15,Madiun,1502,2,-7.62775,111.5055,1,Kabupaten Madiun
+824,15,Ponorogo,1503,2,-7.86783,111.466,1,Kabupaten Ponorogo
+825,15,Magetan,1504,2,-7.64934,111.3382,1,Kabupaten Magetan
+826,15,Pacitan,1505,2,-8.20461,111.0877,1,Kabupaten Pacitan
+827,15,Ngawi,1506,2,-7.38993,111.4619,1,Kabupaten Ngawi
+828,15,Bangkalan,1507,2,-7.03069,112.745,1,Kabupaten Bangkalan
+829,15,Kediri,1508,2,-7.80936,112.0324,1,Kabupaten Kediri
+830,15,Bondowoso,1509,2,-7.9177,113.8135,1,Kabupaten Bondowoso
+831,15,Blitar,1510,2,-8.10144,112.1628,1,Kabupaten Blitar
+832,15,Trenggalek,1511,2,-8.05,111.7167,1,Kabupaten Trenggalek
+833,15,Tulungagung,1512,2,-8.06667,111.9,1,Kabupaten Tulungagung
+834,15,Nganjuk,1513,2,-7.60293,111.9018,1,Kabupaten Nganjuk
+835,15,Situbondo,1514,2,-7.70253,113.9556,1,Kabupaten Situbondo
+836,15,Malang,1515,2,-8.04956,112.6885,1,Kabupaten Malang
+837,15,Jember,1516,2,-8.17236,113.7003,1,Kabupaten Jember
+838,15,Sumenep,1517,2,-6.9254,113.9061,1,Kabupaten Sumenep
+839,15,Pasuruan,1518,2,-6.86231,108.8002,1,Kabupaten Pasuruan
+840,15,Pamekasan,1519,2,-7.16667,113.4667,1,Kabupaten Pamekasan
+841,15,Probolinggo,1520,2,-7.75397,113.2107,1,Kabupaten Probolinggo
+842,15,Lumajang,1521,2,-8.13702,113.2266,1,Kabupaten Lumajang
+843,15,Bojonegoro,1522,2,0.882681,124.467,1,Kabupaten Bojonegoro
+844,15,Tuban,1523,2,-8.74931,115.1711,1,Kabupaten Tuban
+845,15,Lamongan,1524,2,-7.40615,109.3947,1,Kabupaten Lamongan
+846,15,Sidoarjo,1525,2,-7.45303,112.7173,1,Kabupaten Sidoarjo
+847,15,Sampang,1526,2,-7.57826,109.2058,1,Kabupaten Sampang
+848,15,Mojokerto,1527,2,-7.48808,112.427,1,Kabupaten Mojokerto
+849,15,Gresik,1528,2,-7.15665,112.6555,1,Kabupaten Gresik
+850,15,Jombang,1529,2,-7.54684,112.2265,1,Kabupaten Jombang
+851,15,Kota Mojokerto,1530,2,-7.47222,112.4336,1,Kota Mojokerto
+852,15,Kota Surabaya,1531,2,-7.28917,112.7344,1,Kota Surabaya
+853,15,Kota Madiun,1532,2,-7.62971,111.5137,1,Kota Madiun
+854,15,Kota Blitar,1533,2,-8.1,112.15,1,Kota Blitar
+855,15,Kota Malang,1534,2,-7.98189,112.6265,1,Kota Malang
+856,15,Kota Batu,1535,2,-7.8671,112.5239,1,Kota Batu
+857,15,Kota Pasuruan,1536,2,-7.64487,112.9033,1,Kota Pasuruan
+858,15,Kota Kediri,1537,2,-7.8169,112.0114,1,Kota Kediri
+859,15,Kota Probolinggo,1538,2,-7.75693,113.2115,1,Kota Probolinggo
+925,5,Batanghari,501,2,-1.70839,103.0818,1,Kabupaten Batanghari
+926,5,Bungo,502,2,-1.64013,101.8892,1,Kabupaten Bungo
+927,5,Kerinci,503,2,-1.87205,101.4339,1,Kabupaten Kerinci
+928,5,Merangin,504,2,-2.17528,101.9805,1,Kabupaten Merangin
+929,5,Muaro Jambi,505,2,-1.59667,103.6158,1,Kabupaten Muaro Jambi
+930,5,Sarolangun,506,2,-2.26549,102.6905,1,Kabupaten Sarolangun
+931,5,Tanjung Jabung Barat,507,2,-1.23321,103.7984,1,Kabupaten Tanjung Jabung Barat
+932,5,Tanjung Jabung Timur,508,2,-1.32916,103.8997,1,Kabupaten Tanjung Jabung Timur
+933,5,Tebo,509,2,-1.2593,102.3464,1,Kabupaten Tebo
+934,5,Kota Jambi,510,2,-1.59667,103.6158,1,Kota Jambi
+935,5,Kota Sungai Penuh,511,2,-2.06314,101.3872,1,Kota Sungai Penuh
+1326,1,Simeulue,1109,2,2.583333,96.08333,1,Kabupaten Simeulue
+1327,1,Aceh Singkil,1102,2,2.358946,97.87216,1,Kabupaten Aceh Singkil
+1328,1,Aceh Selatan,1101,2,3.311506,97.35166,1,Kabupaten Aceh Selatan
+1329,1,Aceh Tenggara,1102,2,3.308867,97.69823,1,Kabupaten Aceh Tenggara
+1330,1,Aceh Timur,1103,2,5.255443,95.98855,1,Kabupaten Aceh Timur
+1331,1,Aceh Tengah,1104,2,4.448264,96.8351,1,Kabupaten Aceh Tengah
+1332,1,Aceh Barat,1105,2,4.454275,96.1527,1,Kabupaten Aceh Barat
+1333,1,Aceh Besar,1106,2,5.452917,95.47778,1,Kabupaten Aceh Besar
+1334,1,Pidie,1107,2,5.074266,95.94097,1,Kabupaten Pidie
+1335,1,Bireuen,1111,2,5.18254,96.89005,1,Kabupaten Bireuen
+1336,1,Aceh Utara,1108,2,4.978633,97.22214,1,Kabupaten Aceh Utara
+1337,1,Aceh Barat Daya,1112,2,3.051264,97.3368,1,Kabupaten Aceh Barat Daya
+1338,1,Gayo Lues,1113,2,3.955165,97.35166,1,Kabupaten Gayo Lues
+1339,1,Aceh Tamiang,1116,2,4.232887,98.00289,1,Kabupaten Aceh Tamiang
+1340,1,Nagan Raya,1115,2,4.124841,96.49298,1,Kabupaten Nagan Raya
+1341,1,Aceh Jaya,1114,2,4.787368,95.6458,1,Kabupaten Aceh Jaya
+1342,1,Bener Meriah,1117,2,4.774835,97.00684,1,Kabupaten Bener Meriah
+1343,1,Pidie Jaya,1118,2,5.154806,96.19513,1,Kabupaten Pidie Jaya
+1344,1,Kota Banda Aceh,1171,2,5.55,95.31667,1,Kota Banda Aceh
+1345,1,Kota Sabang,1172,2,5.894693,95.3193,1,Kota Sabang
+1346,1,Kota Langsa,1174,2,4.48,97.96333,1,Kota Langsa
+1347,1,Kota Lhokseumawe,1173,2,5.188056,97.14028,1,Kota Lhokseumawe
+1348,1,Kota Subulussalam,1175,2,2.644993,98.01652,1,Kota Subulussalam
+1349,2,Nias,1204,2,-8.17126,113.7111,1,Kabupaten Nias
+1350,2,Mandailing Natal,1213,2,0.743237,99.36731,1,Kabupaten Mandailing Natal
+1351,2,Tapanuli Selatan,1203,2,1.577493,99.27856,1,Kabupaten Tapanuli Selatan
+1352,2,Tapanuli Tengah,1201,2,1.84933,98.70408,1,Kabupaten Tapanuli Tengah
+1353,2,Tapanuli Utara,1202,2,2.040525,99.10135,1,Kabupaten Tapanuli Utara
+1354,2,Toba Samosir,1212,2,2.35024,99.27856,1,Kabupaten Toba Samosir
+1355,2,Labuhanbatu,1210,2,2.343986,100.1703,1,Kabupaten Labuhanbatu
+1356,2,Asahan,1209,2,2.817472,99.63414,1,Kabupaten Asahan
+1357,2,Simalungun,1208,2,2.978161,99.27856,1,Kabupaten Simalungun
+1358,2,Dairi,1211,2,2.86758,98.26506,1,Kabupaten Dairi
+1359,2,Karo,1206,2,3.105291,98.26506,1,Kabupaten Karo
+1360,2,Deli Serdang,1207,2,3.42018,98.70408,1,Kabupaten Deli Serdang
+1361,2,Langkat,1205,2,3.865392,98.30884,1,Kabupaten Langkat
+1362,2,Nias Selatan,1214,2,0.708609,97.82864,1,Kabupaten Nias Selatan
+1363,2,Humbang Hasundutan,1216,2,2.198851,98.5721,1,Kabupaten Humbang Hasundutan
+1364,2,Pakpak Bharat,1215,2,2.545786,98.29984,1,Kabupaten Pakpak Bharat
+1365,2,Samosir,1217,2,2.583333,98.81667,1,Kabupaten Samosir
+1366,2,Serdang Bedagai,1218,2,3.337169,99.05711,1,Kabupaten Serdang Bedagai
+1367,2,Batu Bara,1219,2,3.174098,99.50061,1,Kabupaten Batu Bara
+1368,2,Padang Lawas Utara,1220,2,1.575864,99.63414,1,Kabupaten Padang Lawas Utara
+1369,2,Padang Lawas,1221,2,1.118698,99.81249,1,Kabupaten Padang Lawas
+1370,2,Kota Sibolga,1273,2,1.740375,98.7828,1,Kota Sibolga
+1371,2,Kota Tanjung Balai,1274,2,2.965122,99.80033,1,Kota Tanjung Balai
+1372,2,Kota Pematang Siantar,1272,2,2.96,99.06,1,Kota Pematang Siantar
+1373,2,Kota Tebing Tinggi,1276,2,3.385621,99.20098,1,Kota Tebing Tinggi
+1374,2,Kota Medan,1271,2,3.585242,98.6756,1,Kota Medan
+1375,2,Kota Binjai,1275,2,3.594462,98.48225,1,Kota Binjai
+1376,2,Kota Padangsidimpuan,1277,2,1.380424,99.27397,1,Kota Padangsidimpuan
+1377,3,Kep Mentawai,1309,2,-1.426,98.92453,1,Kabupaten Kepulauan Mentawai
+1378,3,Pesisir Selatan,1301,2,-1.72231,100.8903,1,Kabupaten Pesisir Selatan
+1379,3,Solok,1302,2,-0.80303,100.6444,1,Kabupaten Solok
+1380,3,Sijunjung,1303,2,-0.68816,100.9977,1,Kabupaten Sijunjung
+1381,3,Tanah Datar,1304,2,-0.4797,100.5746,1,Kabupaten Tanah Datar
+1382,3,Padang Pariaman,1305,2,-0.55468,100.2152,1,Kabupaten Padang Pariaman
+1383,3,Agam,1306,2,-0.22094,100.1703,1,Kabupaten Agam
+1384,3,Lima Puluh Kota,1307,2,3.168216,99.41879,1,Kabupaten Lima Puluh Kota
+1385,3,Pasaman,1308,2,0.128875,99.79018,1,Kabupaten Pasaman
+1386,3,Solok Selatan,1311,2,-1.41573,101.2524,1,Kabupaten Solok Selatan
+1387,3,Dharmas Raya,1310,2,-1.11206,101.6158,1,Kabupaten Dharmas Raya
+1388,3,Pasaman Barat,1312,2,0.221301,99.63414,1,Kabupaten Pasaman Barat
+1389,3,Kota Padang,1371,2,-0.95,100.3531,1,Kota Padang
+1390,3,Kota Solok,1372,2,-0.80303,100.6444,1,Kota Solok
+1391,3,Kota Sawah Lunto,1373,2,-0.68103,100.7764,1,Kota Sawah Lunto
+1392,3,Kota Padang Panjang,1374,2,-0.47068,100.4059,1,Kota Padang Panjang
+1393,3,Kota Bukittinggi,1375,2,-0.30556,100.3692,1,Kota Bukittinggi
+1394,3,Kota Payakumbuh,1376,2,-0.22887,100.6323,1,Kota Payakumbuh
+1395,3,Kota Pariaman,1377,2,-0.62644,100.118,1,Kota Pariaman
+1396,4,Kuantan Singingi,1409,2,-0.44116,101.5248,1,Kabupaten Kuantan Singingi
+1397,4,Indragiri Hulu,1402,2,-0.73612,102.2548,1,Kabupaten Indragiri Hulu
+1398,4,Indragiri Hilir,1404,2,-0.14567,102.9896,1,Kabupaten Indragiri Hilir
+1399,4,Pelalawan,1405,2,0.441415,102.0887,1,Kabupaten Pelalawan
+1400,4,S I A K,1408,2,-0.78928,113.9213,1,Kabupaten S I A K
+1401,4,Kampar,1401,2,0.146671,101.1617,1,Kabupaten Kampar
+1402,4,Rokan Hulu,1406,2,1.041093,100.4397,1,Kabupaten Rokan Hulu
+1403,4,Bengkalis,1403,2,1.489722,102.0797,1,Kabupaten Bengkalis
+1404,4,Rokan Hilir,1407,2,1.646398,100.8,1,Kabupaten Rokan Hilir
+1405,4,Kota Pekanbaru,1471,2,0.533333,101.45,1,Kota Pekanbaru
+1406,4,Kota Dumai,1472,2,1.665742,101.4476,1,Kota Dumai
+1407,5,Kerinci,1501,2,-1.697,101.264,1,Kabupaten Kerinci
+1408,5,Merangin,1502,2,-2.17528,101.9805,1,Kabupaten Merangin
+1409,5,Sarolangun,1503,2,-2.26549,102.6905,1,Kabupaten Sarolangun
+1410,5,Batang Hari,1504,2,-1.70839,103.0818,1,Kabupaten Batang Hari
+1411,5,Muaro Jambi,1505,2,-1.59667,103.6158,1,Kabupaten Muaro Jambi
+1412,5,Tanjung Jabung Timur,1507,2,-1.32916,103.8997,1,Kabupaten Tanjung Jabung Timur
+1413,5,Tanjung Jabung Barat,1506,2,-1.23321,103.7984,1,Kabupaten Tanjung Jabung Barat
+1414,5,Tebo,1509,2,-1.2593,102.3464,1,Kabupaten Tebo
+1415,5,Bungo,1508,2,-1.64013,101.8892,1,Kabupaten Bungo
+1416,5,Kota Jambi,1571,2,-1.59667,103.6158,1,Kota Jambi
+1417,6,Ogan Komering Ulu,1601,2,-4.02835,104.0072,1,Kabupaten Ogan Komering Ulu
+1418,6,Ogan Komering Ilir,1602,2,-3.45597,105.2195,1,Kabupaten Ogan Komering Ilir
+1419,6,Muara Enim,1603,2,-3.65158,103.7708,1,Kabupaten Muara Enim
+1420,6,Lahat,1604,2,-3.78639,103.5428,1,Kabupaten Lahat
+1421,6,Musi Rawas,1605,2,-2.86253,102.9896,1,Kabupaten Musi Rawas
+1422,6,Musi Banyuasin,1606,2,-2.5442,103.7289,1,Kabupaten Musi Banyuasin
+1423,6,Banyu Asin,1607,2,-2.60956,104.7521,1,Kabupaten Banyu Asin
+1424,6,Ogan Komering Ulu Selatan,1609,2,-4.6682,104.0072,1,Kabupaten Ogan Komering Ulu Selatan
+1425,6,Ogan Komering Ulu Timur,1608,2,-3.85679,104.7521,1,Kabupaten Ogan Komering Ulu Timur
+1426,6,Ogan Ilir,1610,2,-3.42654,104.6121,1,Kabupaten Ogan Ilir
+1427,6,Empat Lawang,1611,2,-3.7286,102.8975,1,Kabupaten Empat Lawang
+1428,6,Kota Palembang,1671,2,-2.99111,104.7567,1,Kota Palembang
+1429,6,Kota Prabumulih,1674,2,-3.44096,104.2354,1,Kota Prabumulih
+1430,6,Kota Pagar Alam,1672,2,-4.03767,103.2653,1,Kota Pagar Alam
+1431,6,Kota Lubuklinggau,1673,2,-3.29667,102.8617,1,Kota Lubuklinggau
+1432,7,Bengkulu Selatan,1701,2,-4.32484,103.0357,1,Kabupaten Bengkulu Selatan
+1433,7,Rejang Lebong,1702,2,-3.45482,102.6676,1,Kabupaten Rejang Lebong
+1434,7,Bengkulu Utara,1703,2,-3.42196,102.1633,1,Kabupaten Bengkulu Utara
+1435,7,Kaur,1704,2,-4.67923,103.4512,1,Kabupaten Kaur
+1436,7,Seluma,1705,2,-4.06229,102.5642,1,Kabupaten Seluma
+1437,7,Mukomuko,1706,2,-2.576,101.117,1,Kabupaten Mukomuko
+1438,7,Lebong,1707,2,-2.99262,104.3822,1,Kabupaten Lebong
+1439,7,Kepahiang,1708,2,-3.65143,102.5782,1,Kabupaten Kepahiang
+1440,7,Kota Bengkulu,1771,2,-3.79556,102.2592,1,Kota Bengkulu
+1441,8,Lampung Barat,1804,2,-5.14904,104.1931,1,Kabupaten Lampung Barat
+1442,8,Tanggamus,1802,2,-5.30275,104.5655,1,Kabupaten Tanggamus
+1443,8,Lampung Selatan,1801,2,-5.56226,105.5474,1,Kabupaten Lampung Selatan
+1444,8,Lampung Timur,1807,2,-5.1135,105.6882,1,Kabupaten Lampung Timur
+1445,8,Lampung Tengah,1802,2,-4.80081,105.3131,1,Kabupaten Lampung Tengah
+1446,8,Lampung Utara,1803,2,-4.81339,104.7521,1,Kabupaten Lampung Utara
+1447,8,Way Kanan,1808,2,-4.49637,104.5655,1,Kabupaten Way Kanan
+1448,8,Tulangbawang,1812,2,-4.31766,105.5005,1,Kabupaten Tulangbawang
+1449,8,Pesawaran,1809,2,-5.49325,105.0791,1,Kabupaten Pesawaran
+1450,8,Kota Bandar Lampung,1871,2,-5.45,105.2667,1,Kota Bandar Lampung
+1451,8,Kota Metro,1872,2,-5.11667,105.3,1,Kota Metro
+1452,9,Bangka,1901,2,-2.28848,106.064,1,Kabupaten Bangka
+1453,9,Belitung,1902,2,-2.87089,107.9532,1,Kabupaten Belitung
+1454,9,Bangka Barat,1905,2,-2.28848,106.064,1,Kabupaten Bangka Barat
+1455,9,Bangka Tengah,1904,2,-2.28848,106.064,1,Kabupaten Bangka Tengah
+1456,9,Bangka Selatan,1903,2,-2.28848,106.064,1,Kabupaten Bangka Selatan
+1457,9,Belitung Timur,1906,2,-2.87089,107.9532,1,Kabupaten Belitung Timur
+1458,9,Kota Pangkal Pinang,1971,2,-2.12932,106.1096,1,Kota Pangkal Pinang
+1459,10,Karimun,2102,2,1.05,103.3667,1,Kabupaten Karimun
+1460,10,Bintan,2101,2,1.061917,104.5189,1,Kabupaten Bintan
+1461,10,Natuna,2103,2,3.932995,108.1812,1,Kabupaten Natuna
+1462,10,Lingga,2104,2,-0.16277,104.6355,1,Kabupaten Lingga
+1463,10,Kota Batam,2171,2,1.045626,104.0305,1,Kota Batam
+1464,10,Kota Tanjung Pinang,2172,2,0.917921,104.4465,1,Kota Tanjung Pinang
+1465,11,Kep Seribu,3101,2,-5.79853,106.5072,1,Kabupaten Kepulauan Seribu
+1466,11,Kota Jakarta Selatan,3174,2,-6.33297,106.8079,1,Kota Jakarta Selatan
+1467,11,Kota Jakarta Timur,3175,2,-6.21154,106.8452,1,Kota Jakarta Timur
+1468,11,Kota Jakarta Pusat,3171,2,-6.21154,106.8452,1,Kota Jakarta Pusat
+1469,11,Kota Jakarta Barat,3173,2,-6.21154,106.8452,1,Kota Jakarta Barat
+1470,11,Kota Jakarta Utara,3172,2,-6.21154,106.8452,1,Kota Jakarta Utara
+1471,12,Bogor,3201,2,-6.6,106.8,1,Kabupaten Bogor
+1472,12,Sukabumi,3202,2,-6.92405,106.9222,1,Kabupaten Sukabumi
+1473,12,Cianjur,3203,2,-6.81725,107.1307,1,Kabupaten Cianjur
+1474,12,Bandung,3204,2,-6.91474,107.6098,1,Kabupaten Bandung
+1475,12,Garut,3205,2,-7.22791,107.9087,1,Kabupaten Garut
+1476,12,Tasikmalaya,3206,2,-7.32795,108.2141,1,Kabupaten Tasikmalaya
+1477,12,Ciamis,3207,2,-7.33333,108.35,1,Kabupaten Ciamis
+1478,12,Kuningan,3208,2,-6.98333,108.4833,1,Kabupaten Kuningan
+1479,12,Cirebon,3209,2,-6.71553,108.564,1,Kabupaten Cirebon
+1480,12,Majalengka,3210,2,-6.8531,108.2259,1,Kabupaten Majalengka
+1481,12,Sumedang,3211,2,0.609595,110.0331,1,Kabupaten Sumedang
+1482,12,Indramayu,3212,2,-6.33632,108.3251,1,Kabupaten Indramayu
+1483,12,Subang,3213,2,-6.56936,107.7524,1,Kabupaten Subang
+1484,12,Purwakarta,3214,2,-6.53868,107.4499,1,Kabupaten Purwakarta
+1485,12,Karawang,3215,2,-6.32273,107.3376,1,Kabupaten Karawang
+1486,12,Bekasi,3216,2,-6.23333,107,1,Kabupaten Bekasi
+1487,12,Bandung Barat,3217,2,-6.89371,107.4322,1,Kabupaten Bandung Barat
+1488,12,Kota Bogor,3271,2,-6.6,106.8,1,Kota Bogor
+1489,12,Kota Sukabumi,3272,2,-6.92405,106.9222,1,Kota Sukabumi
+1490,12,Kota Bandung,3273,2,-6.91474,107.6098,1,Kota Bandung
+1491,12,Kota Cirebon,3274,2,-6.71553,108.564,1,Kota Cirebon
+1492,12,Kota Bekasi,3275,2,-6.23333,107,1,Kota Bekasi
+1493,12,Kota Depok,3276,2,-6.39,106.83,1,Kota Depok
+1494,12,Kota Cimahi,3277,2,-6.88024,107.5355,1,Kota Cimahi
+1495,12,Kota Tasikmalaya,3278,2,-7.32795,108.2141,1,Kota Tasikmalaya
+1496,12,Kota Banjar,3279,2,-7.36667,108.5333,1,Kota Banjar
+1497,13,Cilacap,3301,2,-7.73333,109,1,Kabupaten Cilacap
+1498,13,Banyumas,3302,2,-7.48321,109.1404,1,Kabupaten Banyumas
+1499,13,Purbalingga,3303,2,-7.39075,109.3638,1,Kabupaten Purbalingga
+1500,13,Banjarnegara,3304,2,-7.40271,109.6814,1,Kabupaten Banjarnegara
+1501,13,Kebumen,3305,2,-7.67868,109.6565,1,Kabupaten Kebumen
+1502,13,Purworejo,3306,2,-7.70973,110.008,1,Kabupaten Purworejo
+1503,13,Wonosobo,3307,2,-7.36211,109.8994,1,Kabupaten Wonosobo
+1504,13,Magelang,3308,2,-7.48125,110.2138,1,Kabupaten Magelang
+1505,13,Boyolali,3309,2,-7.52382,110.5959,1,Kabupaten Boyolali
+1506,13,Klaten,3310,2,-7.71169,110.5955,1,Kabupaten Klaten
+1507,13,Sukoharjo,3311,2,-7.68088,110.8195,1,Kabupaten Sukoharjo
+1508,13,Wonogiri,3312,2,-7.81778,110.9206,1,Kabupaten Wonogiri
+1509,13,Karanganyar,3313,2,-7.59611,110.9508,1,Kabupaten Karanganyar
+1510,13,Sragen,3314,2,-7.43023,111.0213,1,Kabupaten Sragen
+1511,13,Grobogan,3315,2,-7.02172,110.9626,1,Kabupaten Grobogan
+1512,13,Blora,3316,2,-6.95,111.4167,1,Kabupaten Blora
+1513,13,Rembang,3317,2,-6.71124,111.3453,1,Kabupaten Rembang
+1514,13,Pati,3318,2,-6.75134,111.038,1,Kabupaten Pati
+1515,13,Kudus,3319,2,-6.80409,110.8382,1,Kabupaten Kudus
+1516,13,Jepara,3320,2,-6.55961,110.6717,1,Kabupaten Jepara
+1517,13,Demak,3321,2,-6.88812,110.6393,1,Kabupaten Demak
+1518,13,Semarang,3322,2,-6.96667,110.4167,1,Kabupaten Semarang
+1519,13,Temanggung,3323,2,-7.31667,110.1748,1,Kabupaten Temanggung
+1520,13,Kendal,3324,2,-6.91969,110.2056,1,Kabupaten Kendal
+1521,13,Batang,3325,2,-6.89411,109.7235,1,Kabupaten Batang
+1522,13,Pekalongan,3326,2,-6.88289,109.67,1,Kabupaten Pekalongan
+1523,13,Pemalang,3327,2,-6.88423,109.378,1,Kabupaten Pemalang
+1524,13,Tegal,3328,2,-6.86667,109.1333,1,Kabupaten Tegal
+1525,13,Brebes,3329,2,-6.88333,109.05,1,Kabupaten Brebes
+1526,13,Kota Magelang,3371,2,-7.48125,110.2138,1,Kota Magelang
+1527,13,Kota Surakarta,3372,2,-7.56667,110.8167,1,Kota Surakarta
+1528,13,Kota Salatiga,3373,2,-7.30233,110.4729,1,Kota Salatiga
+1529,13,Kota Semarang,3374,2,-6.96667,110.4167,1,Kota Semarang
+1530,13,Kota Pekalongan,3375,2,-6.88289,109.67,1,Kota Pekalongan
+1531,13,Kota Tegal,3376,2,-6.86667,109.1333,1,Kota Tegal
+1532,14,Kulon Progo,3401,2,-7.82668,110.1641,1,Kabupaten Kulon Progo
+1533,14,Bantul,3402,2,-7.88461,110.3341,1,Kabupaten Bantul
+1534,14,Gunung Kidul,3403,2,-8.03051,110.6169,1,Kabupaten Gunung Kidul
+1536,14,Kota Yogyakarta,3471,2,-7.79722,110.3688,1,Kota Yogyakarta
+1537,16,Pandeglang,3601,2,-6.31484,106.1039,1,Kabupaten Pandeglang
+1538,16,Lebak,3602,2,-6.5644,106.2522,1,Kabupaten Lebak
+1539,16,Tangerang,3603,2,-6.17831,106.6319,1,Kabupaten Tangerang
+1540,16,Serang,3604,2,-6.12009,106.1503,1,Kabupaten Serang
+1541,16,Kota Tangerang,3671,2,-6.17831,106.6319,1,Kota Tangerang
+1542,16,Kota Cilegon,3672,2,-6.01698,106.0405,1,Kota Cilegon
+1543,16,Kota Serang,3673,2,-6.12009,106.1503,1,Kota Serang
+1544,17,Jembrana,5101,2,-8.36185,114.6418,1,Kabupaten Jembrana
+1545,17,Tabanan,5102,2,-8.54452,115.1198,1,Kabupaten Tabanan
+1546,17,Badung,5103,2,-8.58193,115.1771,1,Kabupaten Badung
+1547,17,Gianyar,5104,2,-8.54419,115.3255,1,Kabupaten Gianyar
+1548,17,Klungkung,5105,2,-8.53892,115.4045,1,Kabupaten Klungkung
+1549,17,Bangli,5106,2,-8.4543,115.3549,1,Kabupaten Bangli
+1550,17,Karang Asem,5107,2,-6.39961,108.0503,1,Kabupaten Karang Asem
+1551,17,Buleleng,5108,2,-8.11383,115.127,1,Kabupaten Buleleng
+1552,17,Kota Denpasar,5171,2,-8.65629,115.2221,1,Kota Denpasar
+1553,18,Lombok Barat,5201,2,-8.64646,116.1123,1,Kabupaten Lombok Barat
+1554,18,Lombok Tengah,5202,2,-8.69462,116.2777,1,Kabupaten Lombok Tengah
+1555,18,Lombok Timur,5203,2,-8.51345,116.561,1,Kabupaten Lombok Timur
+1556,18,Sumbawa,5204,2,-8.65293,117.3616,1,Kabupaten Sumbawa
+1557,18,Dompu,5205,2,-8.49663,118.4747,1,Kabupaten Dompu
+1558,18,Bima,5206,2,-8.46057,118.7274,1,Kabupaten Bima
+1559,18,Sumbawa Barat,5207,2,-8.92929,116.891,1,Kabupaten Sumbawa Barat
+1560,18,Kota Mataram,5271,2,-8.58333,116.1167,1,Kota Mataram
+1561,18,Kota Bima,5272,2,-8.46057,118.7274,1,Kota Bima
+1562,19,Sumba Barat,5312,2,-9.65483,119.3947,1,Kabupaten Sumba Barat
+1563,19,Sumba Timur,5311,2,-9.98021,120.3436,1,Kabupaten Sumba Timur
+1564,19,Kupang,5301,2,-10.1833,123.5833,1,Kabupaten Kupang
+1565,19,Timor Tengah Selatan,5302,2,-9.77628,124.4198,1,Kabupaten Timor Tengah Selatan
+1566,19,Timor Tengah Utara,5303,2,-9.45226,124.5971,1,Kabupaten Timor Tengah Utara
+1567,19,Belu,5304,2,-9.41258,124.9507,1,Kabupaten Belu
+1568,19,Alor,5305,2,-8.2754,124.7299,1,Kabupaten Alor
+1569,19,Lembata,5313,2,-8.47191,123.4832,1,Kabupaten Lembata
+1570,19,Flores Timur,5306,2,-8.31309,122.9663,1,Kabupaten Flores Timur
+1571,19,Sikka,5307,2,-8.67662,122.1292,1,Kabupaten Sikka
+1572,19,Ende,5308,2,-8.85405,121.6542,1,Kabupaten Ende
+1573,19,Ngada,5309,2,-8.74304,120.9876,1,Kabupaten Ngada
+1574,19,Manggarai,5310,2,-8.6797,120.3897,1,Kabupaten Manggarai
+1575,19,Rote Ndao,5314,2,-10.7386,123.1239,1,Kabupaten Rote Ndao
+1576,19,Manggarai Barat,5315,2,-8.66881,120.0665,1,Kabupaten Manggarai Barat
+1577,19,Sumba Tengah,5317,2,-9.48792,119.6963,1,Kabupaten Sumba Tengah
+1578,19,Sumba Barat Daya,5318,2,-9.53914,119.1391,1,Kabupaten Sumba Barat Daya
+1579,19,Nagekeo,5316,2,-8.67535,121.3084,1,Kabupaten Nagekeo
+1580,19,Manggarai Timur,5319,2,-8.62067,120.62,1,Kabupaten Manggarai Timur
+1581,19,Kota Kupang,5371,2,-10.1833,123.5833,1,Kota Kupang
+1582,20,Sambas,6101,2,1.361328,109.31,1,Kabupaten Sambas
+1583,20,Bengkayang,6107,2,0.820973,109.4777,1,Kabupaten Bengkayang
+1584,20,Landak,6108,2,0.423729,109.7592,1,Kabupaten Landak
+1585,20,Pontianak,6102,2,-0.02252,109.3303,1,Kabupaten Pontianak
+1586,20,Sanggau,6103,2,0.119275,110.5973,1,Kabupaten Sanggau
+1587,20,Ketapang,6104,2,-1.8591,109.9719,1,Kabupaten Ketapang
+1588,20,Sintang,6105,2,0.080238,111.4955,1,Kabupaten Sintang
+1589,20,Kapuas Hulu,6106,2,-0.7931,113.9061,1,Kabupaten Kapuas Hulu
+1590,20,Sekadau,6109,2,0.015637,110.8886,1,Kabupaten Sekadau
+1591,20,Melawi,6110,2,-0.70007,111.6661,1,Kabupaten Melawi
+1592,20,Kayong Utara,6111,2,-0.92259,110.045,1,Kabupaten Kayong Utara
+1593,20,Kubu Raya,6112,2,-0.35339,109.4735,1,Kabupaten Kubu Raya
+1594,20,Kota Pontianak,6171,2,-0.02252,109.3303,1,Kota Pontianak
+1595,20,Kota Singkawang,6172,2,0.908795,108.9846,1,Kota Singkawang
+1596,21,Kotawaringin Barat,6201,2,-6.19611,106.863,1,Kabupaten Kotawaringin Barat
+1597,21,Kotawaringin Timur,6202,2,-6.1953,106.8631,1,Kabupaten Kotawaringin Timur
+1598,21,Kapuas,6203,2,-0.046,110.1313,1,Kabupaten Kapuas
+1599,21,Barito Selatan,6204,2,-1.87594,114.8093,1,Kabupaten Barito Selatan
+1600,21,Barito Utara,6205,2,-0.95871,115.094,1,Kabupaten Barito Utara
+1601,21,Sukamara,6208,2,-2.62675,111.2368,1,Kabupaten Sukamara
+1602,21,Lamandau,6209,2,-1.92692,111.1891,1,Kabupaten Lamandau
+1603,21,Seruyan,6207,2,-3.01235,112.4291,1,Kabupaten Seruyan
+1604,21,Katingan,6206,2,-0.97584,112.8106,1,Kabupaten Katingan
+1605,21,Pulang Pisau,6211,2,-2.68496,113.9536,1,Kabupaten Pulang Pisau
+1606,21,Gunung Mas,6210,2,-6.70528,106.9914,1,Kabupaten Gunung Mas
+1607,21,Barito Timur,6213,2,-2.0124,115.1889,1,Kabupaten Barito Timur
+1608,21,Murung Raya,6212,2,-0.13622,114.3341,1,Kabupaten Murung Raya
+1609,21,Kota Palangka Raya,6271,2,-2.21,113.92,1,Kota Palangka Raya
+1610,22,Tanah Laut,6301,2,-3.7694,114.8093,1,Kabupaten Tanah Laut
+1611,22,Kota Baru,6302,2,-6.33297,106.8079,1,Kabupaten Kota Baru
+1612,22,Banjar,6303,2,-7.36667,108.5333,1,Kabupaten Banjar
+1613,22,Barito Kuala,6304,2,-3.07147,114.6668,1,Kabupaten Barito Kuala
+1614,22,Tapin,6305,2,-2.91607,115.0466,1,Kabupaten Tapin
+1615,22,Hulu Sungai Selatan,6306,2,-2.76627,115.2363,1,Kabupaten Hulu Sungai Selatan
+1616,22,Hulu Sungai Tengah,6307,2,-2.61532,115.5207,1,Kabupaten Hulu Sungai Tengah
+1617,22,Hulu Sungai Utara,6308,2,-2.44212,115.1889,1,Kabupaten Hulu Sungai Utara
+1618,22,Tabalong,6309,2,-1.8643,115.5681,1,Kabupaten Tabalong
+1619,22,Tanah Bumbu,6310,2,-3.45122,115.5681,1,Kabupaten Tanah Bumbu
+1620,22,Balangan,6311,2,-2.32604,115.6155,1,Kabupaten Balangan
+1621,22,Kota Banjarmasin,6371,2,-3.3285,114.5892,1,Kota Banjarmasin
+1622,22,Kota Banjar Baru,6372,2,-3.46667,114.75,1,Kota Banjar Baru
+1623,23,Paser,6401,2,-1.71753,115.9468,1,Kabupaten Paser
+1624,23,Kutai Barat,6407,2,0.135388,115.094,1,Kabupaten Kutai Barat
+1625,23,Kutai Kartanegara,6402,2,-0.13367,116.6082,1,Kabupaten Kutai Kartanegara
+1626,23,Kutai Timur,6408,2,0.943377,116.9852,1,Kabupaten Kutai Timur
+1627,23,Berau,6403,2,2.045088,117.3616,1,Kabupaten Berau
+1628,23,Malinau,6406,2,3.584221,116.6478,1,Kabupaten Malinau
+1629,23,Bulungan,6404,2,2.904248,116.9852,1,Kabupaten Bulungan
+1630,23,Nunukan,6405,2,4.060923,117.667,1,Kabupaten Nunukan
+1631,23,Penajam Paser Utara,6409,2,-1.29171,116.5138,1,Kabupaten Penajam Paser Utara
+1632,23,Tana Tidung,6410,2,3.551869,117.0794,1,Kabupaten Tana Tidung
+1633,23,Kota Balikpapan,6471,2,-1.26354,116.8279,1,Kota Balikpapan
+1634,23,Kota Samarinda,6472,2,-0.50218,117.1538,1,Kota Samarinda
+1635,23,Kota Tarakan,6473,2,3.3,117.6333,1,Kota Tarakan
+1636,23,Kota Bontang,6474,2,0.133333,117.5,1,Kota Bontang
+1637,24,Bolaang Mongondow,7101,2,0.687099,124.0641,1,Kabupaten Bolaang Mongondow
+1638,24,Minahasa,7102,2,1,124.5833,1,Kabupaten Minahasa
+1639,24,Kep Sangihe,7103,2,3.530321,125.5439,1,Kabupaten Kepulauan Sangihe
+1640,24,Kep Talaud,7104,2,4.092,126.768,1,Kabupaten Kepulauan Talaud
+1641,24,Minahasa Selatan,7105,2,1.094677,124.4642,1,Kabupaten Minahasa Selatan
+1642,24,Minahasa Utara,7106,2,1.532797,124.9948,1,Kabupaten Minahasa Utara
+1643,24,Bolaang Mongondow Utara,7108,2,0.818691,123.528,1,Kabupaten Bolaang Mongondow Utara
+1644,24,Siau Tagulandang Biaro,7109,2,2.345964,125.4124,1,Kabupaten Siau Tagulandang Biaro
+1645,24,Minahasa Tenggara,7107,2,1.027855,124.7299,1,Kabupaten Minahasa Tenggara
+1646,24,Kota Manado,7171,2,1.491701,124.8428,1,Kota Manado
+1647,24,Kota Bitung,7172,2,1.455353,125.2047,1,Kota Bitung
+1648,24,Kota Tomohon,7173,2,1.323413,124.8385,1,Kota Tomohon
+1649,24,Kota Kotamobagu,7174,2,0.733333,124.3167,1,Kota Kotamobagu
+1650,25,Banggai Kep,7207,2,-1.64081,123.5504,1,Kabupaten Banggai Kepulauan
+1651,25,Banggai,7201,2,-1.64081,123.5504,1,Kabupaten Banggai
+1652,25,Morowali,7206,2,-2.30031,121.537,1,Kabupaten Morowali
+1653,25,Poso,7202,2,-1.39192,120.767,1,Kabupaten Poso
+1654,25,Donggala,7203,2,-0.42332,119.8352,1,Kabupaten Donggala
+1655,25,Toli-Toli,7204,2,0.876823,120.758,1,Kabupaten Toli-Toli
+1656,25,Buol,7205,2,0.969545,121.3542,1,Kabupaten Buol
+1657,25,Parigi Moutong,7208,2,0.581761,120.8039,1,Kabupaten Parigi Moutong
+1658,25,Tojo Una-Una,7209,2,-1.09876,121.537,1,Kabupaten Tojo Una-Una
+1659,25,Kota Palu,7271,2,-0.89858,119.8506,1,Kota Palu
+1660,26,Selayar,7301,2,-6,120.5,1,Kabupaten Selayar
+1661,26,Bulukumba,7302,2,-5.43294,120.2051,1,Kabupaten Bulukumba
+1662,26,Bantaeng,7303,2,-5.51693,120.0203,1,Kabupaten Bantaeng
+1663,26,Jeneponto,7304,2,-5.55458,119.6731,1,Kabupaten Jeneponto
+1664,26,Takalar,7305,2,-5.41625,119.4876,1,Kabupaten Takalar
+1665,26,Gowa,7306,2,-5.31029,119.7426,1,Kabupaten Gowa
+1666,26,Sinjai,7307,2,-5.2172,120.1127,1,Kabupaten Sinjai
+1667,26,Maros,7309,2,-4.94695,119.5789,1,Kabupaten Maros
+1668,26,Pangkajene Dan Kep,7310,2,-4.80504,119.5572,1,Kabupaten Pangkajene Dan Kepulauan
+1669,26,Barru,7311,2,-4.41727,119.6731,1,Kabupaten Barru
+1670,26,Bone,7308,2,-2.08333,120.2167,1,Kabupaten Bone
+1671,26,Soppeng,7312,2,-4.35185,119.9278,1,Kabupaten Soppeng
+1672,26,Wajo,7313,2,-4.02223,120.0665,1,Kabupaten Wajo
+1673,26,Sidenreng Rappang,7314,2,-3.7739,120.0203,1,Kabupaten Sidenreng Rappang
+1674,26,Pinrang,7315,2,-3.79307,119.6408,1,Kabupaten Pinrang
+1675,26,Enrekang,7316,2,-3.56313,119.7612,1,Kabupaten Enrekang
+1676,26,Luwu,7317,2,-3.30522,120.2513,1,Kabupaten Luwu
+1677,26,Tana Toraja,7318,2,-3.0753,119.7426,1,Kabupaten Tana Toraja
+1678,26,Luwu Utara,7322,2,-2.26904,119.9741,1,Kabupaten Luwu Utara
+1679,26,Luwu Timur,7324,2,-2.58255,121.171,1,Kabupaten Luwu Timur
+1680,26,Kota Makassar,7371,2,-5.13333,119.4167,1,Kota Makassar
+1681,26,Kota Pare-Pare,7372,2,-4.01667,119.6236,1,Kota Pare-Pare
+1682,26,Kota Palopo,7373,2,-3,120.2,1,Kota Palopo
+1683,27,Buton,7404,2,-5.30964,122.9888,1,Kabupaten Buton
+1684,27,Muna,7403,2,-4.90163,122.6277,1,Kabupaten Muna
+1685,27,Konawe,7402,2,-3.93804,122.0837,1,Kabupaten Konawe
+1686,27,Kolaka,7401,2,-4.04967,121.5938,1,Kabupaten Kolaka
+1687,27,Konawe Selatan,7405,2,-4.20279,122.4467,1,Kabupaten Konawe Selatan
+1688,27,Bombana,7406,2,-4.65435,121.9018,1,Kabupaten Bombana
+1689,27,Wakatobi,7407,2,-5.32644,123.5952,1,Kabupaten Wakatobi
+1690,27,Kolaka Utara,7408,2,-3.13472,121.171,1,Kabupaten Kolaka Utara
+1691,27,Buton Utara,7410,2,-4.70234,123.0339,1,Kabupaten Buton Utara
+1692,27,Konawe Utara,7409,2,-3.38033,122.0837,1,Kabupaten Konawe Utara
+1693,27,Kota Kendari,7471,2,-3.9722,122.5149,1,Kota Kendari
+1694,27,Kota Bau-Bau,7472,2,-5.46667,122.633,1,Kota Bau-Bau
+1695,28,Boalemo,7502,2,0.701342,122.2654,1,Kabupaten Boalemo
+1696,28,Gorontalo,7501,2,0.533333,123.0667,1,Kabupaten Gorontalo
+1697,28,Pohuwato,7504,2,0.705528,121.7195,1,Kabupaten Pohuwato
+1698,28,Bone Bolango,7503,2,0.565789,123.3486,1,Kabupaten Bone Bolango
+1699,28,Gorontalo Utara,7505,2,0.925265,122.492,1,Kabupaten Gorontalo Utara
+1700,28,Kota Gorontalo,7571,2,0.533333,123.0667,1,Kota Gorontalo
+1701,29,Majene,7605,2,-3.02973,118.9063,1,Kabupaten Majene
+1702,29,Polewali Mandar,7604,2,-3.34193,119.1391,1,Kabupaten Polewali Mandar
+1703,29,Mamasa,7603,2,-2.96014,119.3682,1,Kabupaten Mamasa
+1704,29,Mamuju,7602,2,-2.72934,118.9296,1,Kabupaten Mamuju
+1705,29,Mamuju Utara,7601,2,-1.52645,119.5108,1,Kabupaten Mamuju Utara
+1706,30,Maluku Tenggara Barat,8103,2,-7.53226,131.3611,1,Kabupaten Maluku Tenggara Barat
+1707,30,Maluku Tenggara,8102,2,-5.75125,132.7272,1,Kabupaten Maluku Tenggara
+1708,30,Maluku Tengah,8101,2,-3.01665,129.4864,1,Kabupaten Maluku Tengah
+1709,30,Buru Selatan,8109,2,-3.39278,126.782,1,Kabupaten Buru Selatan
+1710,30,Kep Aru,8107,2,-6.19465,134.5502,1,Kabupaten Kepulauan Aru
+1711,30,Seram Bagian Barat,8106,2,-3.12716,128.4008,1,Kabupaten Seram Bagian Barat
+1712,30,Seram Bagian Timur,8105,2,-3.41508,130.3905,1,Kabupaten Seram Bagian Timur
+1713,30,Kota Ambon,8171,2,-3.65607,128.1664,1,Kota Ambon
+1714,30,KotaTual,8172,2,-5.64085,132.7475,1,KotaTual
+1715,31,Halmahera Barat,8201,2,1.312124,128.485,1,Kabupaten Halmahera Barat
+1716,31,Halmahera Tengah,8202,2,1.312124,128.485,1,Kabupaten Halmahera Tengah
+1717,31,Kep Sula,8205,2,-1.86667,125.3667,1,Kabupaten Kepulauan Sula
+1718,31,Halmahera Selatan,8204,2,1.312124,128.485,1,Kabupaten Halmahera Selatan
+1719,31,Halmahera Utara,8203,2,1.312124,128.485,1,Kabupaten Halmahera Utara
+1720,31,Halmahera Timur,8206,2,1.312124,128.485,1,Kabupaten Halmahera Timur
+1721,31,Kota Ternate,8271,2,0.783333,127.3667,1,Kota Ternate
+1722,31,Kota Tidore Kep,8272,2,0.683333,127.4,1,Kota Tidore Kepulauan
+1723,32,Fakfak,9203,2,-2.88524,132.2658,1,Kabupaten Fakfak
+1724,32,Kaimana,9208,2,-3.66093,133.7745,1,Kabupaten Kaimana
+1725,32,Teluk Wondama,9207,2,-2.85517,134.3237,1,Kabupaten Teluk Wondama
+1726,32,Teluk Bintuni,9206,2,-1.90568,133.3295,1,Kabupaten Teluk Bintuni
+1727,32,Manokwari,9202,2,-0.86145,134.062,1,Kabupaten Manokwari
+1728,34,Sorong Selatan,9204,2,-1.446208,132.021567,1,Kabupaten Sorong Selatan
+1729,34,Kota Sorong,9271,2,-0.86667,131.25,1,Kota Sorong
+1730,34,Raja Ampat,9205,2,-0.423356,130.818987,1,Kabupaten Raja Ampat
+1731,34,Sorong,9201,2,-0.956880,131.335551,1,Kabupaten Sorong
+1732,33,Merauke,9101,2,-8.49604,140.3946,1,Kabupaten Merauke
+1733,33,Jayawijaya,9102,2,-4.00045,138.7995,1,Kabupaten Jayawijaya
+1734,33,Jayapura,9103,2,-2.533,140.717,1,Kabupaten Jayapura
+1735,33,Nabire,9104,2,-3.50955,135.7521,1,Kabupaten Nabire
+1736,33,Kep Yapen,9105,2,-1.74694,136.1709,1,Kabupaten Kepulauan Yapen
+1737,33,Biak Numfor,9106,2,-1.0381,135.9801,1,Kabupaten Biak Numfor
+1738,33,Paniai,9108,2,-3.78764,136.3625,1,Kabupaten Paniai
+1739,33,Puncak Jaya,9107,2,-4.08361,137.1847,1,Kabupaten Puncak Jaya
+1740,33,Mimika,9109,2,-4.45532,137.1362,1,Kabupaten Mimika
+1741,33,Boven Digoel,9116,2,-5.74,140.3482,1,Kabupaten Boven Digoel
+1742,33,Mappi,9117,2,-7.10223,139.3964,1,Kabupaten Mappi
+1743,33,Asmat,9118,2,-5.0574,138.3988,1,Kabupaten Asmat
+1744,33,Yahukimo,9113,2,-4.49397,139.528,1,Kabupaten Yahukimo
+1745,33,Pegunungan Bintang,9112,2,-4.55899,140.5136,1,Kabupaten Pegunungan Bintang
+1746,33,Tolikara,9114,2,-3.48113,138.4787,1,Kabupaten Tolikara
+1747,33,Sarmi,9110,2,-1.86873,138.7436,1,Kabupaten Sarmi
+1748,33,Keerom,9111,2,-3.34495,140.7624,1,Kabupaten Keerom
+1749,33,Waropen,9115,2,-2.84357,136.6705,1,Kabupaten Waropen
+1750,33,Supiori,9119,2,-0.72951,135.6385,1,Kabupaten Supiori
+1751,33,Mamberamo Raya,9120,2,-2.53313,137.7638,1,Kabupaten Mamberamo Raya
+1752,33,Kota Jayapura,9171,2,-2.533,140.717,1,Kota Jayapura
+1753,2,Labuhanbatu Utara,1223,2,2.346564,99.81249,1,Kabupaten Labuhanbatu Utara
+1754,2,Labuhanbatu Selatan,1222,2,1.879935,100.1703,1,Kabupaten Labuhanbatu Selatan
+1756,2,Nias Utara,1224,2,1.125528,97.52472,1,Kabupaten Nias Utara
+1757,2,Nias Barat,1225,2,1.125528,97.52472,1,Kabupaten Nias Barat
+1758,2,Kota Gunungsitoli,1278,2,1.281964,97.61594,1,Kota Gunungsitoli
+1759,4,Kep Meranti,1410,2,0.920877,102.6676,1,Kabupaten Kepulauan Meranti
+1760,5,Kota Sungai Penuh,1572,2,-2.06314,101.3872,1,Kota Sungai Penuh
+1761,7,Bengkulu Tengah,1709,2,-3.79556,102.2592,1,Kabupaten Bengkulu Tengah
+1762,8,Tulangbawang Barat,1806,2,-4.5257,105.0791,1,Kabupaten Tulangbawang Barat
+1763,8,Pringsewu,1810,2,-5.35399,104.9622,1,Kabupaten Pringsewu
+1764,8,Mesuji,1811,2,-4.00448,105.3131,1,Kabupaten Mesuji
+1765,10,Lingga,2104,2,-0.16277,104.6355,1,Kabupaten Lingga
+1766,10,Anambas,2105,2,3.105546,105.6537,1,Kabupaten Anambas
+1767,14,Sleman,3404,2,-7.71617,110.3354,1,Kabupaten Sleman
+1768,16,Kota Tangerang Selatan,3674,2,-6.28889,106.7181,1,Kota Tangerang Selatan
+1769,18,Lombok Utara,5208,2,-8.37391,116.2777,1,Kabupaten Lombok Utara
+1770,19,Sabu Raijua,5302,2,-10.5541,121.8335,1,Kabupaten Sabu Raijua
+1771,24,Bolang Mongondow Timur,7110,2,0.715265,124.4642,1,Kabupaten Bolang Mongondow Timur
+1772,24,Bolang Mongondow Selatan,7111,2,0.405322,123.8411,1,Kabupaten Bolang Mongondow Selatan
+1773,25,Sigi,7210,2,-1.38341,120.0665,1,Kabupaten Sigi
+1774,26,Toraja Utara,7326,2,-2.86219,119.8352,1,Kabupaten Toraja Utara
+1775,30,Maluku Barat Daya,8108,2,-7.78516,126.3498,1,Kabupaten Maluku Barat Daya
+1776,30,Buru,8104,2,-3.39278,126.782,1,Kabupaten Buru
+1778,31,Pulau Morota,8207,2,2.365667,128.4008,1,Kabupaten Pulau Morota
+1789,32,Tambrauw,9209,2,-0.78186,132.3938,1,Kabupaten Tambrauw
+1790,32,Maybat,9210,2,3.1472,101.6997,1,Kabupaten Maybat
+1791,33,Memberamo Tengah,9121,2,-2.37457,138.319,1,Kabupaten Memberamo Tengah
+1792,33,Yalimo,9122,2,-3.78528,139.4466,1,Kabupaten Yalimo
+1793,33,Lanny Jaya,9123,2,-3.97103,138.319,1,Kabupaten Lanny Jaya
+1794,33,Nduga,9124,2,-4.40695,138.2394,1,Kabupaten Nduga
+1795,33,Puncak,9125,2,-6.71255,106.9542,1,Kabupaten Puncak
+1796,33,Dogiyai,9126,2,-4.01939,135.961,1,Kabupaten Dogiyai
+1797,33,Intan Jaya,9127,2,-3.50764,136.7478,1,Kabupaten Intan Jaya
+1798,33,Deiyai,9128,2,-4.09749,136.4393,1,Kabupaten Deiyai
